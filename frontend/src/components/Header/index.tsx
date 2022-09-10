@@ -2,7 +2,7 @@ function Header() {
     return (
         <header>
             <div className="dsmeta-logo-container">
-                <h1>Lista das Vendas</h1>
+                <h1>Consulta de Vendas OnLine</h1>
             </div>
         </header>
     )
